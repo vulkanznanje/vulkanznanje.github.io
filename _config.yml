@@ -18,7 +18,7 @@ minimal_mistakes_skin    : "default" #, "air", "aqua", "contrast", "dark", "dirt
 # Site Settings
 locale                   : "en-US"
 title                    : "Dalibor Čukljević | Dr Miloš Papić"
-title_separator          : ""
+title_separator          : #""
 name                     : "Vulkan znanje"
 description              : "Autorski tim"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
