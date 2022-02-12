@@ -101,7 +101,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "GitHub strana"
+  name             : "GitHub"
   avatar           : "/images/profile_picture.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Autori udžbenika Informatike i računarstva i konstruktorskih kompleta za Tehniku i tehnologiju za starije razrede osnovne škole."
   location         : "Čačak"
