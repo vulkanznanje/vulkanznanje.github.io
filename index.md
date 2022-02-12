@@ -1,5 +1,5 @@
 ---
-title: 'Dalibor Čukljević | Dr Miloš Papić'
+title: 'Početna'
 layout: single
 author_profile: true
 excerpt: 'Napisati neki tekst ovde...'
