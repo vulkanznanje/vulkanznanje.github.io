@@ -8,9 +8,6 @@ header:
   overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
 ---
 
-# Odavde da počnemo sa pisanjem...
-
-
 # Dobrodošli na našu GitHub prezentaciju.
 
 **Sa leve strane su dati linkovi ka:**
