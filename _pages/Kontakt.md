@@ -18,6 +18,6 @@ header:
 
 **Dalibor Čuklјević, profesor tehnike i informatike**<br/>
 :office: OŠ "Dr Dragiša Mišović" u Čačku <br/>
-:computer: https://www.osdragisamisovic.edu.rs/ <br/>
-:scroll: https://www.linkedin.com/in/daliborcukljevic/ <br/>
-:e-mail: prof.dalibor@gmail.com <br/>
+:computer: [https://www.osdragisamisovic.edu.rs/](https://www.osdragisamisovic.edu.rs/) <br/>
+:scroll: [https://www.linkedin.com/in/daliborcukljevic/](https://www.linkedin.com/in/daliborcukljevic/) <br/>
+:e-mail: [prof.dalibor@gmail.com](prof.dalibor@gmail.com) <br/>
