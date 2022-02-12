@@ -1,14 +1,14 @@
 ---
-title: 'Rafael Cartenet'
+title: 'Dalibor Čukljević | Dr Miloš Papić'
 layout: single
 author_profile: true
-excerpt: 'I am willing to relocate in Shanghai, from June 2020. I am looking for new career opportunities.'
+excerpt: 'Napisati neki tekst ovde...'
 header:
   overlay_image: /images/paris.jpg
   overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
 ---
 
-# About me
+# Odavde da počnemo sa pisanjem...
 
 I'm currently working at [Openfield](http://openfieldlive.com/?lang=en) in Paris, as a full-time **Machine-Learning R&D Engineer**, since June 2018.
 
