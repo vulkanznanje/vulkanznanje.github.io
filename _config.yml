@@ -104,8 +104,8 @@ author:
   name             : "Vulkan znanje"
   avatar           : "/images/profile_picture.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Vulkan znanje"
-  location         : "Čačak - Beograd"
-  email            : "mlsppc@gmail.com"
+  location         : "Čačak"
+  email            : "prof.dalibor@gmail.com"
   uri              :
   home             : # null (default), "absolute or relative url to link to author home"
   bitbucket        :
@@ -114,23 +114,23 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "vulkanznanje"
+  github           : "https://github.com/vulkanznanje/fajlovi"
   gitlab           :
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         : "mmmmmmmmmmm" # "john-doe-12345678" (the last part of your profile url, e.g. https://www.linkedin.com/in/john-doe-12345678)
+  linkedin         : 
   pinterest        :
   soundcloud       :
-  stackoverflow    : # "123456/username" (the last part of your profile url, e.g. https://stackoverflow.com/users/123456/username)
-  steam            : # "steamId" (the last part of your profile url, e.g. https://steamcommunity.com/id/steamId/)
+  stackoverflow    : 
+  steam            : 
   tumblr           :
   twitter          :
   vine             :
   weibo            :
   xing             :
-  youtube          : # "https://youtube.com/c/MichaelRoseDesign"
+  youtube          : 
 
 
 # Reading Files
