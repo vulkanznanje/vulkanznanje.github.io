@@ -17,10 +17,10 @@ minimal_mistakes_skin    : "default" #, "air", "aqua", "contrast", "dark", "dirt
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Rafael Cartenet"
+title                    : "Vulkan znanje"
 title_separator          : "|"
-name                     : "Rafael Cartenet"
-description              : "Machine Learning R&D Engineer Portfolio"
+name                     : "Vulkan znanje"
+description              : "Autorski tim"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -101,11 +101,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Rafael Cartenet"
+  name             : "Vulkan znanje"
   avatar           : "/images/profile_picture.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Machine Learning R&D Engineer"
-  location         : "Paris - France"
-  email            : "rafael.cartenet@gmail.com"
+  bio              : "Vulkan znanje"
+  location         : "Čačak - Beograd"
+  email            : "mlsppc@gmail.com"
   uri              :
   home             : # null (default), "absolute or relative url to link to author home"
   bitbucket        :
@@ -114,13 +114,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "RafaelCartenet"
+  github           : "vulkanznanje"
   gitlab           :
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         : "rafaelcartenet" # "john-doe-12345678" (the last part of your profile url, e.g. https://www.linkedin.com/in/john-doe-12345678)
+  linkedin         : "mmmmmmmmmmm" # "john-doe-12345678" (the last part of your profile url, e.g. https://www.linkedin.com/in/john-doe-12345678)
   pinterest        :
   soundcloud       :
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. https://stackoverflow.com/users/123456/username)
