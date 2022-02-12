@@ -122,20 +122,17 @@ author:
   lastfm           :
   linkedin         : 
   pinterest        :
-  soundcloud       : https://www.vulkanznanje.rs/
+  email            : https://www.vulkanznanje.rs/
   stackoverflow    : 
   steam            : 
   tumblr           :
   twitter          :
-  vine             : https://3d.vulkanznanje.rs/sr_cyr#ulaz
+  email             : https://3d.vulkanznanje.rs/sr_cyr#ulaz
   weibo            :
-  xing             : https://www.mozaweb.com/sr/
+  email             : https://www.mozaweb.com/sr/
   youtube          : https://www.youtube.com/channel/UCRrI0_nhGsf-DreGs3DX_6w
   
-    links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://3d.vulkanznanje.rs/sr_cyr#ulaz"
+
   
 
 
