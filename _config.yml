@@ -103,7 +103,7 @@ analytics:
 author:
   name             : "Vulkan znanje"
   avatar           : "/images/profile_picture.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Vulkan znanje"
+  bio              : "Autori udžbenika Informatike i računarstva i konstruktorskih kompleta za Tehniku i tehnologiju za starije razrede osnovne škole."
   location         : "Čačak"
   email            : "prof.dalibor@gmail.com"
   uri              :
@@ -114,7 +114,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/vulkanznanje/fajlovi"
+  github           : "/vulkanznanje/fajlovi"
   gitlab           :
   google_plus      :
   keybase          :
