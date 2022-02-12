@@ -2,6 +2,7 @@
 title: 'O nama'
 layout: single
 permalink: /o_nama/
+align: right
 author_profile: true
 excerpt: 'Šta se sve nalazi na ovoj strani:'
 header:
