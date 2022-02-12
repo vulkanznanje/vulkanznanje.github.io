@@ -14,10 +14,10 @@ header:
 :computer: [http://www.ftn.kg.ac.rs/milos.papic](http://www.ftn.kg.ac.rs/milos.papic) <br/>
 :scroll: [https://www.researchgate.net/profile/Milos-Papic-2](https://www.researchgate.net/profile/Milos-Papic-2) <br/>
 :scroll: [https://www.linkedin.com/in/milospapic/](https://www.linkedin.com/in/milospapic/) <br/>
-:e-mail: [milos.papic@ftn.kg.ac.rs](milos.papic@ftn.kg.ac.rs) <br/>
+:e-mail: milos.papic@ftn.kg.ac.rs <br/>
 
 **Dalibor Čuklјević, profesor tehnike i informatike**<br/>
 :office: OŠ "Dr Dragiša Mišović" u Čačku <br/>
 :computer: [https://www.osdragisamisovic.edu.rs/](https://www.osdragisamisovic.edu.rs/) <br/>
 :scroll: [https://www.linkedin.com/in/daliborcukljevic/](https://www.linkedin.com/in/daliborcukljevic/) <br/>
-:e-mail: [prof.dalibor@gmail.com](prof.dalibor@gmail.com) <br/>
+:e-mail: prof.dalibor@gmail.com <br/>
