@@ -24,3 +24,9 @@ header:
 
 
 {% include video id="q4oYMGFxNlA" provider="youtube" %}
+
+
+
+<iframe width="420" height="315"
+src="https://www.youtube.com/embed/q4oYMGFxNlAcontrols=0">
+</iframe>
