@@ -10,6 +10,7 @@ header:
 
 # Dobrodošli na našu GitHub prezentaciju.
 ![image](/images/mp.jpg){: style="float: right"}
+
 {% include video id="q4oYMGFxNlA" provider="youtube" %}
 
 **Posetite nas i na:**
