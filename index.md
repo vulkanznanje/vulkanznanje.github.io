@@ -10,7 +10,7 @@ header:
 
 # Dobrodošli na našu GitHub prezentaciju.
 
-**Sa leve strane su dati linkovi ka:**
+**Posetite nas i na:**
 
 [GitHub repozitorijumu](https://github.com/vulkanznanje/fajlovi) na kom se nalaze dodatni sadržaji iz Informatike i računarstva i Tehnike i tehnologije. 
 
