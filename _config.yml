@@ -106,7 +106,7 @@ author:
   bio              : "Autori udžbenika Informatike i računarstva i konstruktorskih kompleta za Tehniku i tehnologiju za starije razrede osnovne škole."
   location         : "Čačak"
   email            : #"prof.dalibor@gmail.com"
-  uri              :
+  uri              : www.google.com
   home             : # null (default), "absolute or relative url to link to author home"
   bitbucket        :
   codepen          :
