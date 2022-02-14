@@ -11,7 +11,6 @@ header:
 
 ![image](/images/mp.jpg){: style="float: right"}
 
-
 **Dr Miloš Papić, vanr. prof.**<br/>
 :office: Fakultet tehničkih nauka u Čačku<br/>
 :computer: [http://www.ftn.kg.ac.rs/milos.papic](http://www.ftn.kg.ac.rs/milos.papic)<br/>
@@ -19,9 +18,7 @@ header:
 :scroll: [https://www.linkedin.com/in/milospapic/](https://www.linkedin.com/in/milospapic/)<br/>
 :e-mail: milos.papic@ftn.kg.ac.rs<br/>
 
-
 ![image](/images/dc.jpg){: style="float: right"}
-
 
 **Dalibor Čuklјević, profesor tehnike i informatike**<br/>
 :office: OŠ "Dr Dragiša Mišović" u Čačku<br/>
