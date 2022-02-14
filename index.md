@@ -24,13 +24,3 @@ header:
 
 
 {% include video id="q4oYMGFxNlA" provider="youtube" %}
-
-
-
-<iframe width="320" height="200"
-src="https://www.youtube.com/embed/q4oYMGFxNlAcontrols=0">
-</iframe>
-
-
-<iframe width="320" height="200" src="https://www.youtube.com/embed/q4oYMGFxNlA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
