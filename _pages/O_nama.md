@@ -18,6 +18,6 @@ header:
 <font size="4"> U mladosti se uspešno bavio košarkom. Sa juniorskom selekcijom KK Borac osvojio je srebrnu medalјu na završnom turniru prvenstva Srbije 2005. godine. Sa seniorskim selekcijama KK Železničar i KK Mladost takmičio se u B saveznoj ligi. </font>
 
 <font size="4"> Oženjen je i otac je dvoje dece. </font>
-
+<br />
 
 **Dalibor Čuklјević** <font size="4"> je profesor tehnike i informatike i računarstva u osnovnoj školi „Dr Dragiša Mišović“ u Čačku. Predaje Informatiku i računarstvo, kao i Tehniku i tehnologiju. Misiju i viziju savremenog modela učenja primenjuje u redovnoj nastavi tako što koristi blagodeti projekata u kojima je učestvovao sa svojim učenicima (IT karavan, Bitka za znanje – KODIgranje). Sva ta iskustva pretočena su i u lekcije i u vežbe koje su skup potreba, ali i želјa da se osavremeni nastavni proces, a učenje postane istraživanje. </font>
