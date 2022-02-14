@@ -9,7 +9,6 @@ header:
 ---
 
 # Dobrodošli na našu GitHub prezentaciju.
-![image](/images/belina.jpg){: style="float: right"}
 
 {% include video id="q4oYMGFxNlA" provider="youtube" %}
 
