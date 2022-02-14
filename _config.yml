@@ -107,7 +107,7 @@ author:
   location         : "Čačak"
   email            : #"prof.dalibor@gmail.com"
   uri              : 
-  home             : # null (default), "absolute or relative url to link to author home"
+  home             : "https://www.vulkanznanje.rs/"
   bitbucket        :
   codepen          :
   dribbble         :
@@ -127,13 +127,9 @@ author:
   steam            : 
   tumblr           :
   twitter          :
-  uri              : https://3d.vulkanznanje.rs/sr_cyr#ulaz
-  uri              : https://www.mozaweb.com/sr/
   youtube          : https://www.youtube.com/channel/UCRrI0_nhGsf-DreGs3DX_6w
   uri              : https://www.vulkanznanje.rs/
-  #weblink          : https://3d.vulkanznanje.rs/sr_cyr#ulaz
-  #weblink          : https://www.mozaweb.com/sr/
-location         : "Čačak"
+
   
 
 
