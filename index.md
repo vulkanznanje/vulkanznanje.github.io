@@ -10,7 +10,7 @@ header:
 
 # Dobrodošli na našu GitHub prezentaciju.
 
-{% include video id="q4oYMGFxNlA" provider="youtube" 50%}
+{% include video id="q4oYMGFxNlA" provider="youtube" %}
 
 **Posetite nas i na:**
 
