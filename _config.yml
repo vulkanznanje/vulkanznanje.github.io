@@ -106,7 +106,7 @@ author:
   bio              : "Autori udžbenika Informatike i računarstva i konstruktorskih kompleta za Tehniku i tehnologiju za starije razrede osnovne škole."
   location         : "Čačak"
   email            : #"prof.dalibor@gmail.com"
-  uri              : www.google.com
+  uri              : 
   home             : # null (default), "absolute or relative url to link to author home"
   bitbucket        :
   codepen          :
@@ -127,10 +127,10 @@ author:
   steam            : 
   tumblr           :
   twitter          :
-  url              : https://3d.vulkanznanje.rs/sr_cyr#ulaz
-  link             : https://www.mozaweb.com/sr/
+  uri              : https://3d.vulkanznanje.rs/sr_cyr#ulaz
+  uri              : https://www.mozaweb.com/sr/
   youtube          : https://www.youtube.com/channel/UCRrI0_nhGsf-DreGs3DX_6w
-  weblink          : https://www.vulkanznanje.rs/
+  uri              : https://www.vulkanznanje.rs/
   #weblink          : https://3d.vulkanznanje.rs/sr_cyr#ulaz
   #weblink          : https://www.mozaweb.com/sr/
 
