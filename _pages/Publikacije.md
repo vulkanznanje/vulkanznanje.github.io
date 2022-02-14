@@ -19,7 +19,7 @@ header:
 </p>
 
 
-**Tehnika i tehnologija**
+**Tehnika i tehnologija [konstruktorski kompleti]**
 <p float="left">
   <a href="https://github.com/vulkanznanje/fajlovi/tree/master/Tehnika%20i%20tehnologija%205"><img src="https://user-images.githubusercontent.com/61086486/153874961-5a3b8201-59e0-4140-8227-83e966ea0683.jpg" alt="alt text" title="TiT5" width="200" height="262"/></a>
   <a href="https://github.com/vulkanznanje/fajlovi/tree/master/Informatika%20i%20ra%C4%8Dunarstvo%206"><img src="https://user-images.githubusercontent.com/61086486/153874962-cea41fd1-15c8-4a55-84ca-1a399550dc13.JPG" alt="alt text" title="TiT6" width="200" height="262"/></a>
