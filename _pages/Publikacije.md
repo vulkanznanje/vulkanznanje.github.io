@@ -9,6 +9,17 @@ header:
   overlay_filter: 0.05 # same as adding an opacity of 0.05 to a black background
 ---
 
+**Informatika i računarstvo**
+
+<p float="left">
+  <img src="images/IiR5.jpg" width="100" />
+  <img src="images/IiR6.jpg" width="100" /> 
+  <img src="images/IiR7.jpg" width="100" />
+  <img src="images/IiR8.jpg" width="100" />
+</p>
+
+
+**Tehnika i tehnologija**
 <p float="left">
   <img src="images/IiR5.jpg" width="100" />
   <img src="images/IiR6.jpg" width="100" /> 
