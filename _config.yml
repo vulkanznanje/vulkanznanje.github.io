@@ -131,7 +131,16 @@ author:
   #                 : https://www.mozaweb.com/sr/
   youtube          : https://www.youtube.com/channel/UCRrI0_nhGsf-DreGs3DX_6w
   
-
+links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:billyrick@rick.com"
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://thewhip.com"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/extravagantman"
   
 
 
