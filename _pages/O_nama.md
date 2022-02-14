@@ -4,7 +4,7 @@ layout: single
 permalink: /o_nama/
 align: right
 author_profile: true
-excerpt: 'Šta se sve nalazi na ovoj strani:'
+excerpt: ''
 header:
   overlay_image: /images/baner.jpg
   overlay_filter: 0.05 # same as adding an opacity of 0.05 to a black background
