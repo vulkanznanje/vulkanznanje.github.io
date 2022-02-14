@@ -10,8 +10,6 @@ header:
 
 # Dobrodošli na našu GitHub prezentaciju.
 
-{% include video id="q4oYMGFxNlA" provider="youtube" %}
-
 **Posetite nas i na:**
 
 [GitHub repozitorijumu](https://github.com/vulkanznanje/fajlovi) na kom se nalaze dodatni sadržaji iz Informatike i računarstva i Tehnike i tehnologije. 
@@ -25,3 +23,4 @@ header:
 [Mozaweb platformi](https://www.mozaweb.com/sr/) gde registrovani korisnici mogu pogledati DEMO verzije naših digitalnih udžbenika sa dodatnim sadržajima (video-tutorijalima, digitalnim zadacima, fajlovima za vežbanje i 3D modelima): 
 
 
+{% include video id="q4oYMGFxNlA" provider="youtube" %}
