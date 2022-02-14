@@ -13,6 +13,8 @@ header:
 
 <iframe width="460" height="300" src="https://www.youtube.com/embed/q4oYMGFxNlA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+</br>
+
 **Posetite nas i na:**
 
 [GitHub repozitorijumu](https://github.com/vulkanznanje/fajlovi) na kom se nalaze dodatni sadržaji iz Informatike i računarstva i Tehnike i tehnologije. 
