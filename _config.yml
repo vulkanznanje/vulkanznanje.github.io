@@ -122,25 +122,19 @@ author:
   lastfm           :
   linkedin         : 
   pinterest        :
-  #email            : https://www.vulkanznanje.rs/
+  #email            : 
   stackoverflow    : 
   steam            : 
   tumblr           :
   twitter          :
-  #                 : https://3d.vulkanznanje.rs/sr_cyr#ulaz
-  #                 : https://www.mozaweb.com/sr/
+  #                : https://3d.vulkanznanje.rs/sr_cyr#ulaz
+  #                : https://www.mozaweb.com/sr/
   youtube          : https://www.youtube.com/channel/UCRrI0_nhGsf-DreGs3DX_6w
-  
-links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:billyrick@rick.com"
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://thewhip.com"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/extravagantman"
+  uri              : https://www.vulkanznanje.rs/
+  uri              : https://3d.vulkanznanje.rs/sr_cyr#ulaz
+  uri              : https://www.mozaweb.com/sr/
+  weblink          : https://www.mozaweb.com/sr/
+  link             : https://www.mozaweb.com/sr/
   
 
 
