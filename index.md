@@ -10,16 +10,7 @@ header:
 
 # Dobrodošli na našu GitHub prezentaciju.
 
-<iframe
-    width="640"
-    height="480"
-    src="https://www.youtube.com/embed/q4oYMGFxNlA"
-    frameborder="0"
-    allow="autoplay; encrypted-media"
-    allowfullscreen>
-</iframe>
-
-![](https://www.youtube.com/embed/q4oYMGFxNlA){width="560" height="315"}
+<p><iframe src="https://www.youtube.com/watch?v=q4oYMGFxNlA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen" width="384" height="216"></iframe></p>
 
 
 **Posetite nas i na:**
