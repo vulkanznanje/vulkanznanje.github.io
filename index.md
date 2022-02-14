@@ -12,7 +12,7 @@ header:
 
 <iframe width="100" height="50" src="https://www.youtube.com/embed/q4oYMGFxNlA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-{% include video id="q4oYMGFxNlA" provider="youtube" %}
+{% include video id="q4oYMGFxNlA" provider="youtube" 50%}
 
 **Posetite nas i na:**
 
