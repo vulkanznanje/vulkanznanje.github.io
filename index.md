@@ -26,4 +26,4 @@ header:
 {% include video id="q4oYMGFxNlA" provider="youtube" %}
 
 
-![](https://komarev.com/ghpvc/?username=vulkanznanje&label=Github Page+views)
+![](https://komarev.com/ghpvc/?username=vulkanznanje&label=GithubPage+views)
