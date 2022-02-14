@@ -105,17 +105,34 @@ author:
   avatar           : "/images/profile_picture.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Autori udžbenika Informatike i računarstva i konstruktorskih kompleta za Tehniku i tehnologiju za starije razrede osnovne škole."
   location         : "Čačak"
-  links:
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      # url: "https://github.com/vulkanznanje/fajlovi"
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      # url: "https://google.com"
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      # url: "https://google.com"
-
+  email            : #"prof.dalibor@gmail.com"
+  uri              : 
+  home             : # null (default), "absolute or relative url to link to author home"
+  bitbucket        :
+  codepen          :
+  dribbble         :
+  flickr           :
+  facebook         :
+  foursquare       :
+  github           : "/vulkanznanje/fajlovi"
+  gitlab           :
+  google_plus      :
+  keybase          :
+  instagram        :
+  lastfm           :
+  linkedin         : 
+  pinterest        :
+  #email            : 
+  stackoverflow    : 
+  steam            : 
+  tumblr           :
+  twitter          :
+  uri              : https://3d.vulkanznanje.rs/sr_cyr#ulaz
+  uri              : https://www.mozaweb.com/sr/
+  youtube          : https://www.youtube.com/channel/UCRrI0_nhGsf-DreGs3DX_6w
+  uri              : https://www.vulkanznanje.rs/
+  #weblink          : https://3d.vulkanznanje.rs/sr_cyr#ulaz
+  #weblink          : https://www.mozaweb.com/sr/
 
   
 
