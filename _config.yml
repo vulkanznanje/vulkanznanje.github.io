@@ -107,7 +107,7 @@ author:
   location         : "Čačak"
   email            : #"prof.dalibor@gmail.com"
   uri              : 
-  home             : "https://www.vulkanznanje.rs/"
+  
   bitbucket        :
   codepen          :
   dribbble         :
@@ -128,6 +128,7 @@ author:
   tumblr           :
   twitter          :
   youtube          : "https://www.youtube.com/channel/UCRrI0_nhGsf-DreGs3DX_6w"
+  home             : "https://www.vulkanznanje.rs/"
   uri              : "https://www.vulkanznanje.rs/"
   website          : "https://www.vulkanznanje.rs/"
 
