@@ -30,9 +30,8 @@ header:
 **Radovi [da li dodati ovde nesto]**
 
 <p float="left">
-  <a href="http://www.ftn.kg.ac.rs/konferencije/TIE2022/docs/papers/S802_65.pdf"><img src="[https://user-
-    images.githubusercontent.com/61086486/190845943-710bb912-4b99-47a2-9a8b-4b91f4ea1b7b.jpg" alt="alt text" title="TIE-2022" width="200" height="262"/></a>
-</p>
+  <a href="https://github.com/vulkanznanje/fajlovi/tree/master/Informatika%20i%20ra%C4%8Dunarstvo%205"><img src="https://user-images.githubusercontent.com/61086486/153874944-39e8baf0-a9cc-4b6f-9e9e-18daea1daf33.JPG" alt="alt text" title="IiR5" width="200" height="262"/></a>
+  </p>
 **Obuke za nastavnike [da li dodati ovde nesto]**
 
 https://zuov-katalog.rs/index.php?action=page/catalog/view&id=959
