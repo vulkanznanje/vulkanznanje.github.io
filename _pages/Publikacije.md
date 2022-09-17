@@ -26,3 +26,14 @@ header:
   <a href="https://github.com/vulkanznanje/fajlovi/tree/master/Tehnika%20i%20tehnologija%207"><img src="https://user-images.githubusercontent.com/61086486/153874964-f06402a7-7b5a-4cea-8ce6-6ba2899f1e5c.jpg" alt="alt text" title="TiT7" width="200" height="262"/></a>
   <a href="https://github.com/vulkanznanje/fajlovi/tree/master/Tehnika%20i%20tehnologija%208"><img src="https://user-images.githubusercontent.com/61086486/153874966-1db0f652-1635-43ab-89e4-6a6bdaaffdf4.JPG" alt="alt text" title="TiT8" width="200" height="262"/></a>
 </p>
+
+**Radovi [da li dodati ovde nesto]**
+<p float="left">
+  <a href="https://github.com/vulkanznanje/fajlovi/tree/master/Tehnika%20i%20tehnologija%205"><img src="[https://user-images.githubusercontent.com/61086486/190845943-710bb912-4b99-47a2-9a8b-4b91f4ea1b7b.JPG)" alt="alt text" title="TiT5" width="200" height="262"/></a>
+
+**Obuke za nastavnike [da li dodati ovde nesto]**
+![TIE 2022](
+https://zuov-katalog.rs/index.php?action=page/catalog/view&id=959
+
+https://zuov-katalog.rs/index.php?action=page/catalog/view&id=857
+
