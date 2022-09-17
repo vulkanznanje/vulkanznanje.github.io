@@ -28,10 +28,12 @@ header:
 </p>
 
 **Radovi [da li dodati ovde nesto]**
+
 <p float="left">
   <a href="https://github.com/vulkanznanje/fajlovi/tree/master/Tehnika%20i%20tehnologija%205"><img src="[https://user-images.githubusercontent.com/61086486/190845943-710bb912-4b99-47a2-9a8b-4b91f4ea1b7b.JPG)" alt="alt text" title="TiT5" width="200" height="262"/></a>
 
-**Obuke za nastavnike [da li dodati ovde nesto]**
+**Radovi [da li dodati ovde nesto]**
+
 https://zuov-katalog.rs/index.php?action=page/catalog/view&id=959
 
 https://zuov-katalog.rs/index.php?action=page/catalog/view&id=857
