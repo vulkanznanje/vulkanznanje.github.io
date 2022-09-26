@@ -36,7 +36,7 @@ header:
 **Obuke za nastavnike**
 
 <p float="left">
-  <a href="https://zuov-katalog.rs/index.php?action=page/catalog/view&id=959"><img src="https://user-images.githubusercontent.com/61086486/192365923-50128a30-08af-42d7-98c9-e5d063cc0bd5.jpg" alt="alt text" title="Nastava programiranja u oblaku - paradigma novog doba" width="393" height="262"/></a>
-  <a href="https://zuov-katalog.rs/index.php?action=page/catalog/view&id=857"><img src="https://user-images.githubusercontent.com/61086486/192375004-18ce2115-7de5-4dfd-a64c-eb9a12e4eabc.jpg" alt="alt text" title="Statičke i dinamičke prezentacije u svetlu novih tehnologija" width="393" height="262"/></a>
+  <a href="https://zuov-katalog.rs/index.php?action=page/catalog/view&id=959"><img src="https://user-images.githubusercontent.com/61086486/192365923-50128a30-08af-42d7-98c9-e5d063cc0bd5.jpg" alt="alt text" title="Nastava programiranja u oblaku - paradigma novog doba" width="390" height="219"/></a>
+  <a href="https://zuov-katalog.rs/index.php?action=page/catalog/view&id=857"><img src="https://user-images.githubusercontent.com/61086486/192375004-18ce2115-7de5-4dfd-a64c-eb9a12e4eabc.jpg" alt="alt text" title="Statičke i dinamičke prezentacije u svetlu novih tehnologija" width="390" height="219"/></a>
   </p>
 
