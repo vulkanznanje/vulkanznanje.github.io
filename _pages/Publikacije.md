@@ -35,7 +35,11 @@ header:
   
 **Obuke za nastavnike**
 
-https://zuov-katalog.rs/index.php?action=page/catalog/view&id=959
+<p float="left">
+  <a href="https://zuov-katalog.rs/index.php?action=page/catalog/view&id=959"><img src="https://user-images.githubusercontent.com/61086486/192365923-50128a30-08af-42d7-98c9-e5d063cc0bd5.jpg" alt="alt text" title="Nastava programiranja u oblaku" width="200" height="262"/></a>
+  </p>
+
 
 https://zuov-katalog.rs/index.php?action=page/catalog/view&id=857
 
+https://user-images.githubusercontent.com/61086486/192365923-50128a30-08af-42d7-98c9-e5d063cc0bd5.jpg
