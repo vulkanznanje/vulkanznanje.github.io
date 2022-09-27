@@ -27,7 +27,7 @@ header:
   <a href="https://github.com/vulkanznanje/fajlovi/tree/master/Tehnika%20i%20tehnologija%208"><img src="https://user-images.githubusercontent.com/61086486/153874966-1db0f652-1635-43ab-89e4-6a6bdaaffdf4.JPG" alt="alt text" title="TiT8" width="200" height="262"/></a>
 </p>
 
-**Radovi**
+**Naučni i stručni radovi**
 
 <p float="left">
   <a href="http://www.ftn.kg.ac.rs/konferencije/TIE2022/docs/papers/S802_65.pdf"><img src="https://user-images.githubusercontent.com/61086486/190845943-710bb912-4b99-47a2-9a8b-4b91f4ea1b7b.jpg" alt="alt text" title="TIE-2022" width="200" height="262"/></a>
