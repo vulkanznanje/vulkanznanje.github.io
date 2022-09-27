@@ -36,7 +36,7 @@ header:
 **Obuke za nastavnike**
 
 <p float="left">
-  <a href="https://zuov-katalog.rs/index.php?action=page/catalog/view&id=959"><img src="https://user-images.githubusercontent.com/61086486/192624738-91278e7e-8c8f-400a-b535-c9fa0a42c8e3.jpg" alt="alt text" title="" width="200" height="262"/></a>
-  <a href="https://zuov-katalog.rs/index.php?action=page/catalog/view&id=857"><img src="https://user-images.githubusercontent.com/61086486/192378020-50f62ef0-3024-4678-95c9-528e5286f98b.jpg" alt="alt text" title="" width="390" height="260"/></a>
+  <a href="https://zuov-katalog.rs/index.php?action=page/catalog/view&id=959"><img src="https://user-images.githubusercontent.com/61086486/192625664-4f52d061-77ba-483a-9946-7e82d71c18d4.jpg" alt="alt text" title="" width="200" height="262"/></a>
+  <a href="https://zuov-katalog.rs/index.php?action=page/catalog/view&id=857"><img src="https://user-images.githubusercontent.com/61086486/192625664-4f52d061-77ba-483a-9946-7e82d71c18d4.jpg" alt="alt text" title="" width="200" height="262"/></a>
   </p>
 
