@@ -26,13 +26,7 @@ header:
   <a href="https://github.com/vulkanznanje/fajlovi/tree/master/Tehnika%20i%20tehnologija%207"><img src="https://user-images.githubusercontent.com/61086486/153874964-f06402a7-7b5a-4cea-8ce6-6ba2899f1e5c.jpg" alt="alt text" title="TiT7" width="200" height="262"/></a>
   <a href="https://github.com/vulkanznanje/fajlovi/tree/master/Tehnika%20i%20tehnologija%208"><img src="https://user-images.githubusercontent.com/61086486/153874966-1db0f652-1635-43ab-89e4-6a6bdaaffdf4.JPG" alt="alt text" title="TiT8" width="200" height="262"/></a>
 </p>
-
-**Naučni i stručni radovi**
-
-<p float="left">
-  <a href="http://www.ftn.kg.ac.rs/konferencije/TIE2022/docs/papers/S802_65.pdf"><img src="https://user-images.githubusercontent.com/61086486/190845943-710bb912-4b99-47a2-9a8b-4b91f4ea1b7b.jpg" alt="alt text" title="TIE-2022" width="200" height="262"/></a>
-  </p>
-  
+ 
 **Obuke za nastavnike**
 
 <p float="left">
@@ -40,3 +34,8 @@ header:
   <a href="https://zuov-katalog.rs/index.php?action=page/catalog/view&id=857"><img src="https://user-images.githubusercontent.com/61086486/192633908-0dfd541a-3564-4a0f-b5cd-61682375e5bb.jpg" alt="alt text" title="" width="200" height="262"/></a>
   </p>
 
+**Naučni i stručni radovi**
+
+<p float="left">
+  <a href="http://www.ftn.kg.ac.rs/konferencije/TIE2022/docs/papers/S802_65.pdf"><img src="https://user-images.githubusercontent.com/61086486/190845943-710bb912-4b99-47a2-9a8b-4b91f4ea1b7b.jpg" alt="alt text" title="TIE-2022" width="200" height="262"/></a>
+  </p>
