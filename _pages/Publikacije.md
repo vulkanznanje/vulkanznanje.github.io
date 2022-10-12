@@ -27,7 +27,7 @@ header:
   <a href="https://github.com/vulkanznanje/fajlovi/tree/master/Tehnika%20i%20tehnologija%208"><img src="https://user-images.githubusercontent.com/61086486/153874966-1db0f652-1635-43ab-89e4-6a6bdaaffdf4.JPG" alt="alt text" title="TiT8" width="200" height="262"/></a>
 </p>
  
-**Obuke za nastavnike**
+**Akreditovane obuke za nastavnike**
 
 <p float="left">
   <a href="https://zuov-katalog.rs/index.php?action=page/catalog/view&id=959"><img src="https://user-images.githubusercontent.com/61086486/192625664-4f52d061-77ba-483a-9946-7e82d71c18d4.jpg" alt="alt text" title="" width="200" height="262"/></a>
