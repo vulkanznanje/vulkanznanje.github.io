@@ -29,6 +29,11 @@ header:
  
 **Obuke za nastavnike**
 
+[393 Statičke i dinamičke prezentacije u svetlu novih tehnologija K1, P6 - Informatika (1 dan, 8 sati)]([https://github.com/vulkanznanje/fajlovi](https://zuov-katalog.rs/index.php?action=page/catalog/view&id=857))
+
+
+[376 Nastava programiranja u oblaku - paradigma novog doba K1, P6 - Informatika (1 dan, 8 sati)]([https://github.com/vulkanznanje/fajlovi](https://zuov-katalog.rs/index.php?action=page/catalog/view&id=857))
+
 <p float="left">
   <a href="https://zuov-katalog.rs/index.php?action=page/catalog/view&id=959"><img src="https://user-images.githubusercontent.com/61086486/192625664-4f52d061-77ba-483a-9946-7e82d71c18d4.jpg" alt="alt text" title="" width="200" height="262"/></a>
   <a href="https://zuov-katalog.rs/index.php?action=page/catalog/view&id=857"><img src="https://user-images.githubusercontent.com/61086486/192633908-0dfd541a-3564-4a0f-b5cd-61682375e5bb.jpg" alt="alt text" title="" width="200" height="262"/></a>
