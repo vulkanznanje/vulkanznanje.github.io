@@ -2,7 +2,7 @@
 title: 'O nama'
 layout: single
 permalink: /o_nama/
-align: right
+align: justify
 author_profile: true
 excerpt: ''
 header:
