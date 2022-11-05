@@ -24,9 +24,9 @@ header:
 
 Nadamo se da ćemo se družiti i na našim **akreditovanim seminarima** tokom naredne tri školske godine (2022/2023., 2023/2024. i 2024/2025.):
 
-Nastava programiranja u oblaku: paradigma novog doba (sajt seminara: https://vulkanobuka.github.io/)
+Nastava programiranja u oblaku: paradigma novog doba [sajt seminara](https://vulkanobuka.github.io/)
 
-Statičke i dinamičke prezentacije u svetlu novih tehnologija (sajt seminara: https://sites.google.com/view/moderneprezentacije)
+Statičke i dinamičke prezentacije u svetlu novih tehnologija [sajt seminara](https://sites.google.com/view/moderneprezentacije)
 
 
 {% include video id="q4oYMGFxNlA" provider="youtube" %}
