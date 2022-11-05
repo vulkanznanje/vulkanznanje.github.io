@@ -24,8 +24,11 @@ header:
 
 Nadamo se da ćemo se družiti i na našim **akreditovanim seminarima** tokom naredne tri školske godine (2022/2023., 2023/2024. i 2024/2025.):
 
-[Nastava programiranja u oblaku: paradigma novog doba](https://zuov-katalog.rs/index.php?action=page/catalog/view&id=959) [Sajt seminara](https://vulkanobuka.github.io/) </br>
-[Statičke i dinamičke prezentacije u svetlu novih tehnologija](https://zuov-katalog.rs/index.php?action=page/catalog/view&id=857) [Sajt seminara](https://sites.google.com/view/moderneprezentacije)
+[Nastava programiranja u oblaku: paradigma novog doba](https://zuov-katalog.rs/index.php?action=page/catalog/view&id=959)
+[Sajt seminara](https://vulkanobuka.github.io/)
+
+[Statičke i dinamičke prezentacije u svetlu novih tehnologija](https://zuov-katalog.rs/index.php?action=page/catalog/view&id=857)
+[Sajt seminara](https://sites.google.com/view/moderneprezentacije)
 
 
 {% include video id="q4oYMGFxNlA" provider="youtube" %}
