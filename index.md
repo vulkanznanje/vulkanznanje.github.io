@@ -22,6 +22,11 @@ header:
 
 [Mozaweb platformi](https://www.mozaweb.com/sr/course.php?cmd=book_list_inner&subject=INF&serie=Vulkan_znanje_predmetna_nastava&books_view=list) gde registrovani korisnici mogu pogledati DEMO verzije naših digitalnih udžbenika sa dodatnim sadržajima (video-tutorijalima, digitalnim zadacima, fajlovima za vežbanje i 3D modelima): 
 
+Nadamo se da ćemo se družiti i na našim **akreditovanim seminarima** tokom naredne tri školske godine (2022/2023., 2023/2024. i 2024/2025.):
+
+Nastava programiranja u oblaku: paradigma novog doba (sajt seminara: https://vulkanobuka.github.io/) </br>
+Statičke i dinamičke prezentacije u svetlu novih tehnologija (sajt seminara: https://sites.google.com/view/moderneprezentacije)
+
 
 {% include video id="q4oYMGFxNlA" provider="youtube" %}
  
