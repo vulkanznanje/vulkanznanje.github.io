@@ -10,9 +10,6 @@
 
 [Virtuelnoj učionici](https://3d.vulkanznanje.rs/sr_cyr#informatika-3) Vulkan znanja gde u 3D okruženju možete prelistati udžbenike, uputstva za vežbe iz konstruktorskih kompleta ili pogledati prezentacije istih. 
 
-[Mozaweb platformi](https://www.mozaweb.com/sr/course.php?cmd=book_list_inner&subject=INF&serie=Vulkan_znanje_predmetna_nastava&books_view=list) gde registrovani korisnici mogu pogledati DEMO verzije naših digitalnih udžbenika sa dodatnim sadržajima (video-tutorijalima, digitalnim zadacima, fajlovima za vežbanje i 3D modelima): 
-
-
 Nadamo se da ćemo se družiti i na našim **akreditovanim seminarima** tokom naredne tri školske godine (2022/2023., 2023/2024. i 2024/2025.):
 
 [Nastava programiranja u oblaku: paradigma novog doba](https://zuov-katalog.rs/index.php?action=page/catalog/view&id=959)
