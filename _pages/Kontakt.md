@@ -15,7 +15,6 @@ header:
 :computer: [http://www.ftn.kg.ac.rs/milos.papic](http://www.ftn.kg.ac.rs/milos.papic)<br/>
 :scroll: [https://www.researchgate.net/profile/Milos-Papic-2](https://www.researchgate.net/profile/Milos-Papic-2)<br/>
 :scroll: [https://www.linkedin.com/in/milospapic/](https://www.linkedin.com/in/milospapic/)<br/>
-:scroll: [https://www.facebook.com/miloshpapitj/](https://www.facebook.com/miloshpapitj/)<br/>
 :e-mail: milos.papic@ftn.kg.ac.rs<br/>
 
 
@@ -23,5 +22,4 @@ header:
 :office: OŠ "Dr Dragiša Mišović" u Čačku<br/>
 :computer: [https://www.osdragisamisovic.edu.rs/](https://www.osdragisamisovic.edu.rs/)<br/>
 :scroll: [https://www.linkedin.com/in/daliborcukljevic/](https://www.linkedin.com/in/daliborcukljevic/)<br/>
-:scroll: [https://www.facebook.com/daliborcukljevic/](https://www.facebook.com/daliborcukljevic/)<br/>
 :e-mail: prof.dalibor@gmail.com</font> <br/>
