@@ -17,9 +17,9 @@ minimal_mistakes_skin    : "default" #, "air", "aqua", "contrast", "dark", "dirt
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Dr Miloš Papić I Dalibor Čukljević"
+title                    : "Prof. dr Miloš Papić I Dalibor Čukljević"
 title_separator          : "-"
-name                     : "Dr Miloš Papić I Dalibor Čukljević"
+name                     : "Prof. dr Miloš Papić I Dalibor Čukljević"
 description              : "Autorski tim"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
