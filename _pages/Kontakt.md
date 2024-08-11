@@ -10,7 +10,7 @@ header:
 ---
 
 
-**Dr Miloš Papić, vanr. prof.**<br/>
+**Prof. dr Miloš Papić**<br/>
 :office: Fakultet tehničkih nauka u Čačku<br/>
 :computer: [http://www.ftn.kg.ac.rs/milos.papic](http://www.ftn.kg.ac.rs/milos.papic)<br/>
 :scroll: [https://www.researchgate.net/profile/Milos-Papic-2](https://www.researchgate.net/profile/Milos-Papic-2)<br/>
