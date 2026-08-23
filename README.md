@@ -8,7 +8,7 @@
 
 [Stranici na sajtu Vulkan znanja](https://www.vulkanznanje.rs/a/79184741-7ee8-49d3-8f53-d39ecd87cf27/Milos-Papic-Dalibor-Cukljevic.aspx) na kojoj možete pogledati detalje o svim našim udžbenicima i konstruktorskim kompletima, te prelistati delove istih u PDF formatu.
 
-Nadamo se da ćemo se družiti i na našim **akreditovanim seminarima** tokom naredne tri školske godine (2022/2023., 2023/2024. i 2024/2025.):
+Nadamo se da ćemo se družiti i na našim **akreditovanim seminarima** tokom naredne tri školske godine (2026/2027., 2027/2028. i 2028/2029.):
 
 [Nastava programiranja u oblaku: paradigma novog doba](https://zuov-katalog.rs/index.php?action=page/catalog/view&id=959)
 (sajt seminara: <https://vulkanobuka.github.io/>)
