@@ -16,6 +16,6 @@ Nadamo se da ćemo se družiti i na našim **akreditovanim seminarima** tokom na
 [Statičke i dinamičke prezentacije u svetlu novih tehnologija](https://zuov-katalog.rs/index.php?action=page/catalog/view&id=857)
 (sajt seminara: <https://sites.google.com/view/moderneprezentacije>)
 
-
+[Tehnoloski poboljsano ucenje: digitalni udzbenici u praksi](https://zuov-katalog.rs/index.php?action=page/catalog/view&id=624)
 
 ![](https://komarev.com/ghpvc/?username=vulkanznanje&label=Github+views)
